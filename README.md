@@ -1,0 +1,1 @@
+# calculate-the-sum-of-squares-of-given-integers-excluding-any-negatives
